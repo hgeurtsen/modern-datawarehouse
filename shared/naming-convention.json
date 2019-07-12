@@ -10,7 +10,7 @@
         },
         "environment": {
             "type": "string",
-            "allowedValues": ["learn","dev","test","acc","prod"],
+            "allowedValues": ["dev","test","acc","prod"],
             "metadata": {
                 "description": "The short name of the environment that you're deploying"
             }
