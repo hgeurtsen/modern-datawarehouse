@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "companyName": {
-            "value": "FMO-Impact"
+            "value": "hgn"
         },
         "environment": {
             "value": "dev"
